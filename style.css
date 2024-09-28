@@ -1,0 +1,24 @@
+.container{
+
+}
+
+.form{
+text-align: center;
+justify-content: center;
+}
+
+.form-control{
+    min-width: 500px;
+    min-height: 50px;
+}
+
+.textarea{
+    text-align: center;
+    justify-content: center;
+    min-width: 500px;
+    min-height: 50px;
+}
+.medias{
+    min-width: 100px;
+    min-height: 100px;
+}
